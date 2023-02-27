@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prasadabhijith
 - 👀 I’m interested in backend technologies and software development using java and related technologies.
-- 🌱 I’m currently working as a seniour software engineer.
+- 🌱 I’m currently working as a senior software engineer.
 - 💞️ I’m looking to collaborate on anything that excites me or gives me an opportunity to learn new technolgies and skills.  
 - 📫 Reach me - mr.abhijithprasad@gmail.com 
